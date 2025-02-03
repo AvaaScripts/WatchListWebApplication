@@ -1,0 +1,7 @@
+
+For running the project:
+
+1. First, open the terminal and run the backend server.
+2. Then, open another terminal, go to the frontend directory, and run:
+   npm run dev
+3. Click on the localhost link displayed under Vite to open the project.
