@@ -1,4 +1,4 @@
-# WatchListWebApplication
+
 # WatchList Web Application
 
 ## Overview
