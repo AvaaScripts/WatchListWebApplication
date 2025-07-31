@@ -1,18 +1,17 @@
-Overview
+### WatchList Web Application
+## Overview
 WatchList is a full-stack web application that enables users to create and manage a personalized list of movies and TV shows they want to watch. The app offers a clean, easy-to-use interface to add and organize favorites with movie poster visuals.
 
-Features
-Add, update, and delete movies or TV shows in the watchlist
+## Features
+- Add, update, and delete movies or TV shows in the watchlist
 
-Display movie posters and key information using data from the OMDB API
+- Display movie posters and key information using data from the OMDB API
 
-Store watchlist data persistently with MongoDB
+- Store watchlist data persistently with MongoDB
 
-Responsive design for smooth use on both desktop and mobile devices
+- Responsive design for smooth use on both desktop and mobile devices
 
-Asynchronous data loading for seamless interaction without page reloads
-
-## Tech Stack
+- Asynchronous data loading for seamless interaction without page reloads
 
 ### Frontend:
 
